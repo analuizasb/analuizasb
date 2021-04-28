@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @analuizasb
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node.js, React, JavaScript
 - 📫 How to reach me: analuizasb@live.com | https://www.linkedin.com/in/ana-luiza-braga-996868a3/
 
